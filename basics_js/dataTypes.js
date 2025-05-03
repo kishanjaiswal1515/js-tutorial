@@ -8,9 +8,9 @@ console.log("kishan")
 
 // number -- 2 to power 53
 // bigInt
-// String
+// String ""
 // null
-// boolean
+// boolean ==> true/false
 // symbol -- unique
 
 console.log(typeof null);

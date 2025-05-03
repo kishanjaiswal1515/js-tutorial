@@ -3,6 +3,9 @@ let accountEmail = "kishan@gmail.com"
 var accountPassword = "12345"
 accountCity = "Bhopal"
 
+
+// let AccountState;     //undefined variable                     
+
 // accountId = 2
 
 accountEmail = "kish@n.com"
@@ -11,4 +14,4 @@ accountCity = "Delhi"
 
 // prefer not to use var , insted use let and const.
 
-console.table([accountEmail,accountId,accountPassword,accountCity]);
+console.table([accountEmail,accountId,accountPassword,accountCity,AccountState]);
