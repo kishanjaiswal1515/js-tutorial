@@ -57,4 +57,16 @@ console.log(a6);
 let a7 = [10,15,20,30,45];
 a7.splice(1,3);
 console.log(a7);
-a7.splice(1,3,11,12,13);
+a7.splice(1,0,11,12,13);
+console.log(a7);
+
+
+//The slice() method returns a new array containing a portion of the original array
+const a8 = [11,12,32,21,42];
+console.log(a8.slice(1,3));
+console.log(a8);
+
+//The reverse() method is used to reverse the order of elements in an array.
+let a9 = [1, 2, 3, 4, 5];
+a9.reverse();
+console.log(a9);
