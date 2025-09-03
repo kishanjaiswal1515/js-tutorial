@@ -48,8 +48,6 @@ console.log(a6);
 
 //The splice() method is used to Insert and Remove elements in between the Array.
 //array.splice(start, deleteCount, item1, item2, ...);
-//start → index jaha se operation shuru karna hai.
-
 // start → index jaha se operation shuru karna hai.
 // deleteCount → kitne elements delete karne hain. (agar 0 doge to delete nhi hoga).
 // item1, item2, ... → (optional) naye elements jo insert karne ho.
